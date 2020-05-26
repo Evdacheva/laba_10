@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\lsba10_2\lsba10_2\bin\Debug\netcoreapp3.1\lsba10_2.exe
+C:\Users\HP\source\repos\lsba10_2\lsba10_2\bin\Debug\netcoreapp3.1\lsba10_2.deps.json
+C:\Users\HP\source\repos\lsba10_2\lsba10_2\bin\Debug\netcoreapp3.1\lsba10_2.runtimeconfig.json
+C:\Users\HP\source\repos\lsba10_2\lsba10_2\bin\Debug\netcoreapp3.1\lsba10_2.runtimeconfig.dev.json
+C:\Users\HP\source\repos\lsba10_2\lsba10_2\bin\Debug\netcoreapp3.1\lsba10_2.dll
+C:\Users\HP\source\repos\lsba10_2\lsba10_2\bin\Debug\netcoreapp3.1\lsba10_2.pdb
+C:\Users\HP\source\repos\lsba10_2\lsba10_2\obj\Debug\netcoreapp3.1\lsba10_2.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\lsba10_2\lsba10_2\obj\Debug\netcoreapp3.1\lsba10_2.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\lsba10_2\lsba10_2\obj\Debug\netcoreapp3.1\lsba10_2.AssemblyInfo.cs
+C:\Users\HP\source\repos\lsba10_2\lsba10_2\obj\Debug\netcoreapp3.1\lsba10_2.dll
+C:\Users\HP\source\repos\lsba10_2\lsba10_2\obj\Debug\netcoreapp3.1\lsba10_2.pdb

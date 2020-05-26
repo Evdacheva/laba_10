@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\laba10_!\laba10_!\bin\Debug\netcoreapp3.1\laba10_!.exe
+C:\Users\HP\source\repos\laba10_!\laba10_!\bin\Debug\netcoreapp3.1\laba10_!.deps.json
+C:\Users\HP\source\repos\laba10_!\laba10_!\bin\Debug\netcoreapp3.1\laba10_!.runtimeconfig.json
+C:\Users\HP\source\repos\laba10_!\laba10_!\bin\Debug\netcoreapp3.1\laba10_!.runtimeconfig.dev.json
+C:\Users\HP\source\repos\laba10_!\laba10_!\bin\Debug\netcoreapp3.1\laba10_!.dll
+C:\Users\HP\source\repos\laba10_!\laba10_!\bin\Debug\netcoreapp3.1\laba10_!.pdb
+C:\Users\HP\source\repos\laba10_!\laba10_!\obj\Debug\netcoreapp3.1\laba10_!.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\laba10_!\laba10_!\obj\Debug\netcoreapp3.1\laba10_!.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\laba10_!\laba10_!\obj\Debug\netcoreapp3.1\laba10_!.AssemblyInfo.cs
+C:\Users\HP\source\repos\laba10_!\laba10_!\obj\Debug\netcoreapp3.1\laba10_!.dll
+C:\Users\HP\source\repos\laba10_!\laba10_!\obj\Debug\netcoreapp3.1\laba10_!.pdb
